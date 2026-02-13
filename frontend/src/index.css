@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Space Grotesk", "Inter", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", "SFMono-Regular", ui-monospace, monospace;
+
+  --color-primary-500: #9c7add;
+  --color-primary-600: #8b69ce;
+  --color-secondary-500: #61c3ad;
+}
+
+body {
+  background: radial-gradient(circle at top left, #7d63b0 0%, #322a4c 32%, #201b36 68%, #19152b 100%);
+  min-height: 100vh;
+  color: #d5daf1;
+  font-family: var(--font-sans);
+  text-rendering: geometricPrecision;
+}
+
+#root {
+  min-height: 100vh;
+}
