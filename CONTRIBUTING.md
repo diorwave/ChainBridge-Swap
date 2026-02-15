@@ -25,8 +25,8 @@ Before contributing, ensure you have:
 1. Fork the repository
 2. Clone your fork:
    ```bash
-   git clone https://github.com/diorwave/PoC.git
-   cd depix-btc-atomic-swap
+   git clone https://github.com/diorwave/ChainBridge-Swap.git
+   cd ChainBridge-Swap
    ```
 
 3. Create a virtual environment:
@@ -224,7 +224,7 @@ Brief description of changes
 
 ### Bug Fixes
 
-Check the [Issues](https://github.com/diorwave/PoC/issues) page for:
+Check the [Issues](https://github.com/diorwave/ChainBridge-Swap/issues) page for:
 - Bugs labeled `good first issue`
 - Feature requests
 - Documentation improvements
@@ -334,9 +334,9 @@ When adding features, update:
 
 ## Questions?
 
-- Open a [Discussion](https://github.com/diorwave/PoC/discussions)
+- Open a [Discussion](https://github.com/diorwave/ChainBridge-Swap/discussions)
 - Join our community chat
-- Check existing [Issues](https://github.com/diorwave/PoC/issues)
+- Check existing [Issues](https://github.com/diorwave/ChainBridge-Swap/issues)
 
 ## License
 
